@@ -3,3 +3,8 @@ Hallo from Henning. :)
 Hi there :)
 
 hi! Leonie was here (written on my iPhone)
+
+so how does gitpod work? 
+is this realtime collab à la Google Wave (we all remember)
+
+I don't - when was this? It's like google docs though. +git
